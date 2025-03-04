@@ -1,6 +1,7 @@
 <h3 align="left">Hello world, I'm Lam Nguyen 👋</h3>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/LamRiceYuuna?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/LamRiceYuuna?style=social"> &nbsp;&nbsp; <img alt="LamRiceYuuna | Count Views" src="https://komarev.com/ghpvc/?username=LamRiceYuuna&color=blue"> />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/LamRiceYuuna?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/LamRiceYuuna?style=social"> &nbsp;&nbsp; <img alt="LamRiceYuuna | Count Views" src="https://komarev.com/ghpvc/?username=LamRiceYuuna&color=white"> />
+###
 
 <div align="center">
   <img height="160" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"  />
@@ -12,7 +13,7 @@
 
 ###
 
-<p align="left">•💳 My full name is Nguyễn Bảo Lâm                                               <br>•🏫 I'm currently a fresh Graduate student from FPT University -                             <br>Hola (Ha Noi) Campus<br>•📚 My major is Software Engineering<br>•🌏 I'm living now in Ha Noi, Viet Nam<br>•😅 I'm a newbie in coding 🐧<br>•🧐 I'm interested in coding, sleeping, and watching film<br>•👌 Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep</p>
+<p align="left">•💳 My full name is Nguyễn Bảo Lâm                                               <br>•🏫 I'm currently a fresh Graduate student from FPT University -                             <br>Hola (Ha Noi) Campus<br>•📚 My major is Software Engineering<br>•🌏 I'm living now in Ho Chi Minh City, Viet Nam<br>•😅 I'm a newbie in coding 🐧<br>•🧐 I'm interested in coding, sleeping, and watching film<br>•👌 Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep</p>
 
 ###
 
@@ -91,7 +92,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LamRiceYuuna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=GitHub%20St%C3%A1t" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LamRiceYuuna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LamRiceYuuna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=LamRiceYuuna&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
