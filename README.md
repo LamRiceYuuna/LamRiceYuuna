@@ -1,6 +1,6 @@
 <h3 align="left">Hello world, I'm Lam Nguyen 👋</h3>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/LamRiceYuuna?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/LamRiceYuuna?style=social"> &nbsp;&nbsp; <img alt="LamRiceYuuna | Count Views" src="https://komarev.com/ghpvc/?username=LamRiceYuuna&color=white"> />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/LamRiceYuuna?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/LamRiceYuuna?style=social"> &nbsp;&nbsp; <img alt="LamRiceYuuna | Count Views" src="https://komarev.com/ghpvc/?username=LamRiceYuuna&color=blue"> />
 ###
 
 <div align="center">
