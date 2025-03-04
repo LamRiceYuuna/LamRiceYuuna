@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">•💳 My full name is Nguyễn Bảo Lâm                                               <br>•🏫 I'm currently a fresh Graduate student from FPT University -                             <br>Hola (Ha Noi) Campus<br>•📚 My major is Software Engineering<br>•🌏 I'm living now in Ho Chi Minh City, Viet Nam<br>•😅 I'm a newbie in coding 🐧<br>•🧐 I'm interested in coding, sleeping, and watching film<br>•👌 Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep</p>
+<p align="left">•💳 My full name is Nguyễn Bảo Lâm                                               <br>•🏫 I'm currently a fresh Graduate student from FPT University -                             <br>Hola (Ha Noi) Campus<br>•📚 My major is Software Engineering<br>•🌏 I'm living now in Ha Noi City, Viet Nam<br>•😅 I'm a newbie in coding 🐧<br>•🧐 I'm interested in coding, sleeping, and watching film<br>•👌 Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep</p>
 
 ###
 
